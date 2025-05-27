@@ -1,2 +1,2 @@
-# resume-Template-
+# resumeTemplate-
  Personal Portfolio &amp; CV
